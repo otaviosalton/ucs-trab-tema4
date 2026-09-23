@@ -9,7 +9,7 @@
 * **Pedro Carlesso:** Pergunta Principal
 * **Otávio Cabalheiro Salton:** Pergunta Norteadora 1
 * **Lucas Didoné Oliveira:** Pergunta Norteadora 2
-* **Leonardo dos Anjos (Taquara):** Pergunta Norteadora 3
+* **Leonardo dos Anjos:** Pergunta Norteadora 3
 
 ---
 
