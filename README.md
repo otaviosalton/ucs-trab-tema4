@@ -31,30 +31,39 @@
 ### 1. O que a engenharia de software resolve de verdade: escrever código ou outra coisa?
 **Responsável:** Otávio
 
-A Engenharia de Software não tem como objetivo primário a simples escrita de código. Escrever código representa a **complexidade acidental** da profissão — o esforço braçal e operacional de traduzir lógica para uma sintaxe compreensível pela máquina (Brooks, 1987)[cite: 1]. É justamente essa camada operacional que a Inteligência Artificial automatiza com alta eficiência.
+A Engenharia de Software não tem como objetivo primário a simples escrita de código. Escrever código representa a **complexidade acidental** da profissão — o esforço braçal e operacional de traduzir lógica para uma sintaxe compreensível pela máquina (Brooks, 1987). É justamente essa camada operacional que a Inteligência Artificial automatiza com alta eficiência.
 
 O que a Engenharia de Software resolve de fato é a **complexidade essencial**:
 * **Modelagem e Entendimento do Negócio:** Traduzir requisitos humanos frequentemente ambíguos ou contraditórios em regras de negócio rigorosas.
 * **Arquitetura e Design de Sistemas:** Projetar como diferentes microsserviços, bancos de dados, APIs e mecanismos de segurança se integram de forma escalável e resiliente.
-* **Gerência e Evolução de Software:** Manter a rastreabilidade, o controle de versões, a gestão de dependências e a integridade contínua do sistema ao longo do tempo (foco central da Gerência de Configuração)[cite: 1].
+* **Gerência e Evolução de Software:** Manter a rastreabilidade, o controle de versões, a gestão de dependências e a integridade contínua do sistema ao longo do tempo (foco central da Gerência de Configuração).
 
-Em contraste com a visão de Welsh (2023) de que a programação clássica acabará[cite: 1], sustentamos que o que acaba é a escrita manual de código repetitivo. A engenharia focada em arquitetura e solução de problemas permanece essencialmente humana.
+Em contraste com a visão de Welsh (2023) de que a programação clássica acabará, sustentamos que o que acaba é a escrita manual de código repetitivo. A engenharia focada em arquitetura e solução de problemas permanece essencialmente humana.
 
-**Evidência Empírica:** O estudo *The SWE-Bench Illusion* (2026) demonstra empiricamente que o alto desempenho de LLMs em testes de código ocorre majoritariamente por **memorização** de soluções contidas em seus dados de treinamento[cite: 1], e não por raciocínio arquitetural sobre problemas inéditos. Portanto, a IA atua como assistente de produtividade, mas falha em substituir o raciocínio sistêmico.
+**Evidência Empírica:** O estudo *The SWE-Bench Illusion* (2026) demonstra empiricamente que o alto desempenho de LLMs em testes de código ocorre majoritariamente por **memorização** de soluções contidas em seus dados de treinamento, e não por raciocínio arquitetural sobre problemas inéditos. Portanto, a IA atua como assistente de produtividade, mas falha em substituir o raciocínio sistêmico.
 
 ---
 
 ### 2. Outras tecnologias já prometeram acabar com a programação antes? O que aconteceu?
-**Responsável:** Lucas
+**Responsável:** Taquara
 
 *[Aguardando texto]*
 
 ---
 
 ### 3. Como se avalia se uma previsão sobre o futuro de uma profissão merece ser levada a sério?
-**Responsável:** Taquara
+**Responsável:** Lucas
 
-*[Aguardando texto]*
+***Critérios Fundamentais:**
+
+**1. Clareza da mudança:** 
+Dizer que "a IA vai acabar com uma profissão" é muito vago. No cenário atual, podemos dizer que a tecnologia automatiza as tarefas chatas e repetitivas, mas raramente elimina a necessidade de resolver o problema final. Na programação, por exemplo, a IA gera a estrutura rápida do código, mas ainda é preciso um profissional para entender quais são os objetivos e o funcionamento correto do sistema, uma vez que a essência da profissão nunca foi só o código, mas sim entender as necessidades, os problemas e garantir a entrega final. 
+
+**2. A ilusão de velocidade:** 
+A IA é impressionante para entregar resultados rápidos em diversas áreas, como análises de textos, ajustar a formalidade de uma escrita ou explicar e dar uma aula de conceitos. Porém, na nossa profissão tem um diferencial, a funcionalidade principal precisa estar correta, e então entra o “Fardo da Revisão”, o sistema entrega um código aparentemente pronto, mas repleto de erros ocultos que fazem com que o profissional gaste mais tempo revisando do que gastaria para criar o programa do zero. E, como diz Bertrand Meyer, a IA adora pedir desculpas. 
+
+**3. Confiabilidade e responsabilidade final:** 
+Depois de impressionar com o fornecimento de uma aula de código e teoria, ao ser analisado percebemos que o que era impressionante não tem muita utilidade para problemas complexos do dia a dia e pode até ser prejudicial. Em setores onde erros custam caro e quando houver risco de vida, prejuízo financeiro ou decisões éticas, uma máquina não pode assumir a culpa. A responsabilidade final e a tomada de decisão continuam sendo exigências humanas.*
 
 ---
 
