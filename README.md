@@ -8,8 +8,8 @@
 ## 👥 Integrantes do Grupo
 * **Pedro Carlesso:** Pergunta Principal
 * **Otávio Cabalheiro Salton:** Pergunta Norteadora 1
-* **Lucas Didoné Oliveira:** Pergunta Norteadora 2
-* **Leonardo dos Anjos:** Pergunta Norteadora 3
+* **Leonardo dos Anjos:** Pergunta Norteadora 2
+* **Lucas Didoné Oliveira:** Pergunta Norteadora 3
 
 ---
 
@@ -54,7 +54,7 @@ Em contraste com a visão de Welsh (2023) de que a programação clássica acaba
 ### 3. Como se avalia se uma previsão sobre o futuro de uma profissão merece ser levada a sério?
 **Responsável:** Lucas
 
-***Critérios Fundamentais:**
+**Critérios Fundamentais:**
 
 **1. Clareza da mudança:** 
 Dizer que "a IA vai acabar com uma profissão" é muito vago. No cenário atual, podemos dizer que a tecnologia automatiza as tarefas chatas e repetitivas, mas raramente elimina a necessidade de resolver o problema final. Na programação, por exemplo, a IA gera a estrutura rápida do código, mas ainda é preciso um profissional para entender quais são os objetivos e o funcionamento correto do sistema, uma vez que a essência da profissão nunca foi só o código, mas sim entender as necessidades, os problemas e garantir a entrega final. 
