@@ -47,7 +47,7 @@ Em contraste com a visão de Welsh (2023) de que a programação clássica acaba
 ### 2. Outras tecnologias já prometeram acabar com a programação antes? O que aconteceu?
 **Responsável:** Leonardo dos Anjos (Taquara)
 
-A promessa de "acabar com a programação" acompanha a área de tecnologia há décadas. Historicamente, todas as inovações que prometeram eliminar a necessidade de programadores apenas elevaram o nível de abstração do trabalho, alterando como a programação é feita, mas não eliminando a profissão.
+Sim, a promessa de "acabar com a programação" acompanha a área de tecnologia há décadas. Historicamente, todas as inovações que prometeram eliminar a necessidade de programadores apenas elevaram o nível de abstração do trabalho, alterando como a programação é feita, mas não eliminando a profissão.
 
 **1. Linguagens de Alto Nível (década de 1950):**
 * **A Promessa:** O surgimento de linguagens como COBOL e Fortran prometia que executivos de negócios e cientistas poderiam instruir computadores escrevendo em um inglês quase natural ou com equações, eliminando a necessidade de programadores de linguagem de máquina (Assembly).
