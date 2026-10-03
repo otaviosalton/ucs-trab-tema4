@@ -6,9 +6,9 @@
 ---
 
 ## 👥 Integrantes do Grupo
-* **Pedro Carlesso:** Pergunta Principal
+* **[Nome do responsável]:** Pergunta Principal
 * **Otávio Cabalheiro Salton:** Pergunta Norteadora 1
-* **Leonardo dos Anjos:** Pergunta Norteadora 2
+* **Leonardo dos Anjos (Taquara):** Pergunta Norteadora 2
 * **Lucas Didoné Oliveira:** Pergunta Norteadora 3
 
 ---
@@ -22,14 +22,14 @@
 ## 📌 Perguntas Norteadoras e Fundamentação
 
 ### Pergunta Principal: A IA vai acabar com a profissão do desenvolvedor de software?
-**Responsável:** Pedro Carlesso
+**Responsável:** [Nome do responsável]
 
-*[Espaço texto ]*
+*[Aguardando texto da pergunta principal]*
 
 ---
 
 ### 1. O que a engenharia de software resolve de verdade: escrever código ou outra coisa?
-**Responsável:** Otávio
+**Responsável:** Otávio Cabalheiro Salton
 
 A Engenharia de Software não tem como objetivo primário a simples escrita de código. Escrever código representa a **complexidade acidental** da profissão — o esforço braçal e operacional de traduzir lógica para uma sintaxe compreensível pela máquina (Brooks, 1987). É justamente essa camada operacional que a Inteligência Artificial automatiza com alta eficiência.
 
@@ -45,32 +45,42 @@ Em contraste com a visão de Welsh (2023) de que a programação clássica acaba
 ---
 
 ### 2. Outras tecnologias já prometeram acabar com a programação antes? O que aconteceu?
-**Responsável:** Taquara
+**Responsável:** Leonardo dos Anjos (Taquara)
 
-*[Aguardando texto]*
+A promessa de "acabar com a programação" acompanha a área de tecnologia há décadas. Historicamente, todas as inovações que prometeram eliminar a necessidade de programadores apenas elevaram o nível de abstração do trabalho, alterando como a programação é feita, mas não eliminando a profissão.
+
+**1. Linguagens de Alto Nível (década de 1950):**
+* **A Promessa:** O surgimento de linguagens como COBOL e Fortran prometia que executivos de negócios e cientistas poderiam instruir computadores escrevendo em um inglês quase natural ou com equações, eliminando a necessidade de programadores de linguagem de máquina (Assembly).
+* **O que Aconteceu:** A abstração permitiu construir softwares muito maiores e mais complexos. Em vez de dispensar programadores, isso gerou uma explosão na demanda por profissionais dedicados a estruturar sistemas cada vez mais robustos.
+
+**2. Ferramentas CASE e Modelagem Visual (décadas de 1980 e 1990):**
+* **A Promessa:** A premissa do CASE (*Computer-Aided Software Engineering*) era a geração automática de software. Acreditava-se que bastaria desenhar diagramas lógicos (como UML) e a ferramenta escreveria todo o código.
+* **O que Aconteceu:** Essas ferramentas funcionavam apenas para gerar o esqueleto básico do sistema, mas não conseguiam capturar exceções, integrações complexas e regras de negócio específicas. A engenharia de software tradicional continuou sendo necessária para fazer o sistema funcionar na prática.
+
+**3. Plataformas Low-Code e No-Code (década de 2010 até hoje):**
+* **A Promessa:** Prometem empoderar os "desenvolvedores cidadãos", permitindo que qualquer pessoa crie aplicativos apenas arrastando e soltando blocos visuais.
+* **O que Aconteceu:** Elas são excelentes para automatizar processos internos simples, mas rapidamente encontram limites técnicos. Quando o sistema precisa de escalabilidade, segurança e integração customizada, as empresas precisam chamar engenheiros de software tradicionais.
 
 ---
 
 ### 3. Como se avalia se uma previsão sobre o futuro de uma profissão merece ser levada a sério?
-**Responsável:** Lucas
-
-**Critérios Fundamentais:**
+**Responsável:** Lucas Didoné Oliveira
 
 **1. Clareza da mudança:** 
-Dizer que "a IA vai acabar com uma profissão" é muito vago. No cenário atual, podemos dizer que a tecnologia automatiza as tarefas chatas e repetitivas, mas raramente elimina a necessidade de resolver o problema final. Na programação, por exemplo, a IA gera a estrutura rápida do código, mas ainda é preciso um profissional para entender quais são os objetivos e o funcionamento correto do sistema, uma vez que a essência da profissão nunca foi só o código, mas sim entender as necessidades, os problemas e garantir a entrega final. 
+Dizer que "a IA vai acabar com uma profissão" é muito vago. No cenário atual, podemos dizer que a tecnologia automatiza as tarefas chatas e repetitivas, mas raramente elimina a necessidade de resolver o problema final. Na programação, por exemplo, a IA gera a estrutura rápida do código, mas ainda é preciso um profissional para entender quais são os objetivos e o funcionamento correto do sistema, uma vez que a essência da profissão nunca foi só o código, mas sim entender as necessidades, os problemas e garantir a entrega final.
 
 **2. A ilusão de velocidade:** 
-A IA é impressionante para entregar resultados rápidos em diversas áreas, como análises de textos, ajustar a formalidade de uma escrita ou explicar e dar uma aula de conceitos. Porém, na nossa profissão tem um diferencial, a funcionalidade principal precisa estar correta, e então entra o “Fardo da Revisão”, o sistema entrega um código aparentemente pronto, mas repleto de erros ocultos que fazem com que o profissional gaste mais tempo revisando do que gastaria para criar o programa do zero. E, como diz Bertrand Meyer, a IA adora pedir desculpas. 
+A IA é impressionante para entregar resultados rápidos em diversas áreas, como análises de textos, ajustar a formalidade de uma escrita ou explicar e dar uma aula de conceitos. Porém, na nossa profissão tem um diferencial, a funcionalidade principal precisa estar correta, e então entra o “Fardo da Revisão”, o sistema entrega um código aparentemente pronto, mas repleto de erros ocultos que fazem com que o profissional gaste mais tempo revisando do que gastaria para criar o programa do zero. E, como diz Bertrand Meyer (2023), a IA adora pedir desculpas.
 
 **3. Confiabilidade e responsabilidade final:** 
-Depois de impressionar com o fornecimento de uma aula de código e teoria, ao ser analisado percebemos que o que era impressionante não tem muita utilidade para problemas complexos do dia a dia e pode até ser prejudicial. Em setores onde erros custam caro e quando houver risco de vida, prejuízo financeiro ou decisões éticas, uma máquina não pode assumir a culpa. A responsabilidade final e a tomada de decisão continuam sendo exigências humanas.*
+Depois de impressionar com o fornecimento de uma aula de código e teoria, ao ser analisado percebe-se que o que era impressionante não tem muita utilidade para problemas complexos do dia a dia e pode até ser prejudicial. Em setores onde erros custam caro e quando houver risco de vida, prejuízo financeiro ou decisões éticas, uma máquina não pode assumir a culpa. A responsabilidade final e a tomada de decisão continuam sendo exigências humanas.
 
 ---
 
 ## 📚 Referências Bibliográficas
-* BROOKS, F. P. **No Silver Bullet: Essence and Accidents of Software Engineering**. IEEE Computer, v. 20, n. 4, 1987[cite: 1].
-* WELSH, M. **The End of Programming**. Communications of the ACM, v. 66, n. 1, 2023[cite: 1].
-* MEYER, B. **AI Does Not Help Programmers**. Blog CACM, 2023[cite: 1].
-* JIMENEZ, C. et al. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** ICLR, 2024[cite: 1].
-* **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason**. ICSE-SEIP, 2026[cite: 1].
-* KARPATHY, A. **Software 2.0**. Medium, 2017[cite: 1].
+* BROOKS, F. P. **No Silver Bullet: Essence and Accidents of Software Engineering**. IEEE Computer, v. 20, n. 4, 1987.
+* WELSH, M. **The End of Programming**. Communications of the ACM, v. 66, n. 1, 2023.
+* MEYER, B. **AI Does Not Help Programmers**. Blog CACM, 2023.
+* JIMENEZ, C. et al. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** ICLR, 2024.
+* **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason**. ICSE-SEIP, 2026.
+* KARPATHY, A. **Software 2.0**. Medium, 2017.
