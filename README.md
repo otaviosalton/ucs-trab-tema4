@@ -6,7 +6,7 @@
 ---
 
 ## 👥 Integrantes do Grupo
-* **[Nome do responsável]:** Pergunta Principal
+* **Pedro Carlesso:** Pergunta Principal
 * **Otávio Cabalheiro Salton:** Pergunta Norteadora 1
 * **Leonardo dos Anjos (Taquara):** Pergunta Norteadora 2
 * **Lucas Didoné Oliveira:** Pergunta Norteadora 3
@@ -22,7 +22,7 @@
 ## 📌 Perguntas Norteadoras e Fundamentação
 
 ### Pergunta Principal: A IA vai acabar com a profissão do desenvolvedor de software?
-**Responsável:** [Nome do responsável]
+**Responsável:** Pedro Carlesso
 
 *[Aguardando texto da pergunta principal]*
 
