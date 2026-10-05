@@ -8,14 +8,14 @@
 ## 👥 Integrantes do Grupo
 * **Pedro Carlesso:** Pergunta Principal
 * **Otávio Cabalheiro Salton:** Pergunta Norteadora 1
-* **Leonardo dos Anjos (Taquara):** Pergunta Norteadora 2
+* **Leonardo dos Anjos:** Pergunta Norteadora 2
 * **Lucas Didoné Oliveira:** Pergunta Norteadora 3
 
 ---
 
 ## 🎯 Posicionamento do Grupo
 
-*[Espaço para escrever depois]*
+A Inteligência Artificial não vai extinguir a Engenharia de Software, mas sim transformá-la. A automação absorve a escrita mecânica e operacional de código (complexidade acidental), enquanto a modelagem de problemas de negócio, a arquitetura de sistemas e a responsabilidade final continuam sendo exigências estritamente humanas (complexidade essencial). O desenvolvedor do futuro evolui de um "digitador de código" para um engenheiro e orquestrador de sistemas baseados em IA.
 
 ---
 
@@ -24,7 +24,29 @@
 ### Pergunta Principal: A IA vai acabar com a profissão do desenvolvedor de software?
 **Responsável:** Pedro Carlesso
 
-*[Aguardando texto da pergunta principal]*
+A rápida evolução dos Grandes Modelos de Linguagem (LLMs) e das ferramentas de Inteligência Artificial (IA) generativa trouxe para o centro do debate a pergunta: *"A IA vai acabar com a profissão do desenvolvedor de software?"*.
+
+#### A Ascensão do "Software 2.0" e o Fim da Codificação Manual
+A premissa de que a profissão do desenvolvedor está com os dias contados ganha força com o artigo-âncora de Matt Welsh (2023), *"The End of Programming"*. Welsh argumenta de forma incisiva que a Computação, nos moldes em que a conhecemos, está morta. Segundo o autor, a transição fará com que os profissionais deixem de "escrever código" linha por linha e passem a focar no treinamento e na curadoria de sistemas baseados em IA.
+
+Essa mudança de paradigma foi antecipada conceitualmente por Andrej Karpathy (2017) através do conceito de **"Software 2.0"**. Enquanto no "Software 1.0" o programador escreve instruções lógicas explícitas (estruturas de repetição e condicionais), no Software 2.0 o comportamento do sistema é definido por redes neurais que "descobrem" a lógica a partir de vastos conjuntos de dados. A IA passa a ser quem escreve o código, deixando para as pessoas a parte de fundamentá-lo.
+
+Levando essa visão ao extremo, Cao (2026) em *"The End of Software Engineering"* defende que não apenas a codificação manual desaparecerá, mas todo o ciclo de vida do software — incluindo arquitetura, testes e deploy — será engolido por agentes autônomos de IA, sugerindo a possível substituição de times inteiros de engenharia.
+
+#### A Realidade Prática e os Limites da IA
+No entanto, a prática nos mostra que as IAs ainda esbarram naquilo que Fred Brooks (1987) chamava de **"complexidade essencial"** do software: entender as regras reais do mundo e o impacto de cada decisão. 
+
+Quando pesquisadores colocaram as Inteligências Artificiais de ponta para resolver problemas reais de código, os resultados foram bem diferentes do esperado. No famoso teste **SWE-bench**, modelos avançados conseguiram resolver sozinhos apenas 1,7% dos problemas. Posteriormente, o estudo *"The SWE-Bench Illusion"* (2026) mostrou algo ainda mais curioso: mesmo os testes que apontavam taxas de acerto maiores (perto dos 13%) estavam "contaminados". As IAs não estavam criando soluções novas, mas apenas lembrando e reproduzindo respostas de códigos que já existiam em seus bancos de dados de treinamento.
+
+#### O Desenvolvedor Orquestrador
+Trazendo essa discussão para o dia a dia, o desenvolvedor Lucas Montano (2026) reforça que a IA não vai acabar com a profissão, mas vai deixar para trás quem insiste em programar e revisar tudo manualmente. Ele destaca que o foco do trabalho já mudou para a coordenação de ferramentas de IA e a garantia de qualidade por meio de automação de processos repetitivos. 
+
+Esse relato prático de mercado confirma a conclusão fundamental: o desenvolvedor não vai desaparecer, mas deixa definitivamente de ser um "digitador de código" para atuar como um **orquestrador de sistemas**.
+
+#### Conclusão
+A profissão não está morrendo, mas evoluindo. O desenvolvedor do futuro precisará atuar como um engenheiro de sistemas e orquestrador de IA, exigindo habilidades muito mais sofisticadas do que a simples digitação de código. O foco da profissão passará para o pensamento crítico, a engenharia de prompts avançada, a auditoria rigorosa do código gerado por máquinas e a compreensão profunda das regras de negócio. 
+
+Em suma, a Inteligência Artificial não substituirá o engenheiro de software, mas o engenheiro que dominar a complexidade essencial e souber orquestrar a IA certamente substituirá aquele que se recusar a evoluir.
 
 ---
 
@@ -45,9 +67,9 @@ Em contraste com a visão de Welsh (2023) de que a programação clássica acaba
 ---
 
 ### 2. Outras tecnologias já prometeram acabar com a programação antes? O que aconteceu?
-**Responsável:** Leonardo dos Anjos (Taquara)
+**Responsável:** Leonardo dos Anjos 
 
-Sim, a promessa de "acabar com a programação" acompanha a área de tecnologia há décadas. Historicamente, todas as inovações que prometeram eliminar a necessidade de programadores apenas elevaram o nível de abstração do trabalho, alterando como a programação é feita, mas não eliminando a profissão.
+A promessa de "acabar com a programação" acompanha a área de tecnologia há décadas. Historicamente, todas as inovações que prometeram eliminar a necessidade de programadores apenas elevaram o nível de abstração do trabalho, alterando como a programação é feita, mas não eliminando a profissão.
 
 **1. Linguagens de Alto Nível (década de 1950):**
 * **A Promessa:** O surgimento de linguagens como COBOL e Fortran prometia que executivos de negócios e cientistas poderiam instruir computadores escrevendo em um inglês quase natural ou com equações, eliminando a necessidade de programadores de linguagem de máquina (Assembly).
@@ -79,8 +101,10 @@ Depois de impressionar com o fornecimento de uma aula de código e teoria, ao se
 
 ## 📚 Referências Bibliográficas
 * BROOKS, F. P. **No Silver Bullet: Essence and Accidents of Software Engineering**. IEEE Computer, v. 20, n. 4, 1987.
-* WELSH, M. **The End of Programming**. Communications of the ACM, v. 66, n. 1, 2023.
-* MEYER, B. **AI Does Not Help Programmers**. Blog CACM, 2023.
+* CAO, X. **The End of Software Engineering**. IEEE Software, 2026.
 * JIMENEZ, C. et al. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** ICLR, 2024.
-* **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason**. ICSE-SEIP, 2026.
 * KARPATHY, A. **Software 2.0**. Medium, 2017.
+* MEYER, B. **AI Does Not Help Programmers**. Blog CACM, 2023.
+* MONTANO, Lucas. **Lucas Montano: dev que recusa IA vai ficar pra trás**. Entrevista concedida ao canal GringaNews, YouTube, 30 set. 2026.
+* **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason**. ICSE-SEIP, 2026.
+* WELSH, M. **The End of Programming**. Communications of the ACM, v. 66, n. 1, 2023.
